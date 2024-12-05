@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graElfow", "graElfow\graElfow.csproj", "{AEC96F1B-83B9-415A-BD64-2BC8373AA33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC96F1B-83B9-415A-BD64-2BC8373AA33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC96F1B-83B9-415A-BD64-2BC8373AA33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC96F1B-83B9-415A-BD64-2BC8373AA33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC96F1B-83B9-415A-BD64-2BC8373AA33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D24D6D-5AD4-44F9-8227-5A9B8386225A}
+	EndGlobalSection
+EndGlobal
